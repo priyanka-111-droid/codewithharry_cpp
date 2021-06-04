@@ -60,6 +60,10 @@ Tut 34:copy constructor
 
 Tut 35: destructor
 
+Tut 36:Inheritance and different types
+
+Tut 37:Inheritance syntax and visibility mode
+
 Tut 50: revisiting pointer,new and delete
 
 Tut 51: pointer to objects and arrow operator
