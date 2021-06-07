@@ -64,6 +64,8 @@ Tut 36:Inheritance and different types
 
 Tut 37:Inheritance syntax and visibility mode
 
+Tut 38:Single inheritance deep dive
+
 Tut 50: revisiting pointer,new and delete
 
 Tut 51: pointer to objects and arrow operator
