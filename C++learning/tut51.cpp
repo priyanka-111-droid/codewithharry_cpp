@@ -1,4 +1,4 @@
-//pointer to obj and arrow operator
+//pointer to obj and arrow operator in C++
 //arrow if dynamic mostly
 
 #include<iostream>
