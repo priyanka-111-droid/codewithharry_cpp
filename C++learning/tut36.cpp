@@ -12,7 +12,7 @@ What is inheritance?
 -------------------------------------------
 Types of inheritance
 1.Single inheritance-->derived class ,1 base class
-2.Multiple inheritance-->derived class ,>1 base class
+2.Multiple inheritance-->derived class ,more than 1 base class
 3.Hierarchial inheritance-->several derived classes from single base class
 4.Multilevel inheritance-->deriving class from already derived class
 5.Hybrid inheritance-->multiple inh+multi level inh,class derived

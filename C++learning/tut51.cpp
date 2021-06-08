@@ -31,7 +31,7 @@ int main()
     //(*ptr).getdata();//since dot more prec than *
     ptr->getdata();
 
-    //Array of objects
+    //Array of objects introduction
     Complex *ptr1=new Complex[4];
     ptr1->setdata(1,4);
     ptr1->getdata();

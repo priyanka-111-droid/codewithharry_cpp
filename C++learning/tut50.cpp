@@ -11,10 +11,10 @@ int main()
 
     //new(dynamic initialization)
     int *p=new int(40);
-    cout<<"value of at address p is"<<*(p)<<endl;
+    cout<<"value of at address p is"<<*(p)<<endl;//40
 
     float *p1=new float(40.5);
-    cout<<"value of at address p1 is"<<*(p1)<<endl;
+    cout<<"value of at address p1 is"<<*(p1)<<endl;//40.5
     //allocate block of memory
     int *arr=new int[3];
     arr[0]=10;
