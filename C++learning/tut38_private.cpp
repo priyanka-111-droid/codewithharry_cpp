@@ -1,3 +1,7 @@
+//if base class derived privately,how to access its methods?
+//getter and setter
+//I have to access getdata and setdata methods of base class from derived class...
+
 #include<iostream>
 using namespace std;
 
@@ -24,7 +28,7 @@ int Base:: getData2(){
 }
 
 class Derived: Base{
-    //class being derived publically
+    //class being derived privately
     int data3;
     public:
         void process();
@@ -44,7 +48,7 @@ void Derived::display(){
 int main()
 {
     Derived der;
-    //der.setData();
+    //der.setData(); //this has become private
     der.process();
     der.display();
 

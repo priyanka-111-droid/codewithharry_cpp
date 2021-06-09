@@ -22,15 +22,18 @@ class Student{
 class Test: virtual public Student{
     protected:
         float maths,physics;
+        //float score;
     public:
         void set_marks(float m1,float m2){
             maths=m1;
             physics=m2;
+            //score=m1;
         }
         void print_marks(void){
             cout<<"Your result is here: "<<endl 
                 <<"Maths marks:"<<maths<<endl 
                 <<"Physics marks:"<<physics<<endl;
+            //cout<<"Math marks"<<score<<endl;
         }
 };
 
@@ -66,6 +69,9 @@ int main()
     r.set_num(11);
     r.set_marks(78,89);
     r.set_score(70);
-    r.display();
+    // r.print_num();
+    // r.print_marks();
+    // r.print_score();
+     r.display();
     return 0;
 }

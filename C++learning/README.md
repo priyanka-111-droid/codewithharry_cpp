@@ -64,9 +64,9 @@ Tut 36:Inheritance and different types
 
 Tut 37:Inheritance syntax and visibility mode
 
-Tut 38:Single inheritance deep dive
+Tut 38:Single inheritance deep dive 
 
-Tut 38_private:What happens if I make Derived with private visibility mode
+Tut 38_private:What happens if I make Derived with private visibility mode and getter-setter
 
 Tut 39:protected access modifier
 
