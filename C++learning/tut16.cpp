@@ -16,7 +16,8 @@ void swapPointer(int* a,int* b)
     *a=*b;
     *b=temp;
 }
-//call by address using ref var
+//call by reference using ref var
+
 void swapRefVar(int &a,int &b)
 {
     int temp=a;

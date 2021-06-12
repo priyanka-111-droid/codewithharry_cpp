@@ -18,7 +18,7 @@ Tut 14: struct ,union,enum
 
 Tut 15: Function and function prototype
 
-Tut 16: Call by value,call by ref,call by add
+Tut 16: Call by value,call by ref by pointers,call by ref by ref variable
 
 Tut 17: Inline function,default args,constant args
 
@@ -105,3 +105,14 @@ Tut 50: revisiting pointer,new and delete
 Tut 51: pointer to objects and arrow operator
 
 Tut 52:Array of objects using pointers
+
+Tut 53:this keyword
+
+Tut53b:returning this keyword 
+
+Tut 54:polymorphism
+
+Tut 55:Pointers to derived class
+
+Tut  56:virtual functions
+
