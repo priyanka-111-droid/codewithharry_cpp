@@ -116,3 +116,13 @@ Tut 55:Pointers to derived class
 
 Tut  56:virtual functions
 
+Tut 57:virtual functions example + creation rules in C++
+
+Tut 58:Abstract base class and pure virtual functions
+
+Tut 59:File I/O:Working with files
+
+Tut 60:File I/O:read/write from files
+
+Tut 61:File I/O:read and write in same program and closing files
+
