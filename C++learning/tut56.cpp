@@ -6,10 +6,6 @@
 //actual jo compiler binding karta hai(func ke address se object ko associate karna)
 //happens at runtime
 
-
-#include<iostream>
-using namespace std;
-
 #include<iostream>
 using namespace std;
 class BaseClass{

@@ -126,3 +126,17 @@ Tut 60:File I/O:read/write from files
 
 Tut 61:File I/O:read and write in same program and closing files
 
+Tut 62:
+
+Tut 63:C++ templates(for competitive coding)
+
+Tut 64:writing first template
+
+Tut 65:Templates with multiple parameters
+
+Tut 66:class templates with default parameters
+
+Tut 67:C++ function templates and function templates with parameters
+
+Tut 68:Member function templates and overloading template functions.
+
