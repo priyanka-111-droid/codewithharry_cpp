@@ -28,16 +28,16 @@ int main()
     BaseClass obj_base;
     DerivedClass obj_derived;
 
-    //base class ka pointer points to der class ka object
-    base_class_pointer=&obj_derived;
+    // //base class ka pointer points to der class ka object
+    // base_class_pointer=&obj_derived;
 
-    //base class ka pointer,if it points to derived class
-    //if u use pointer to print display
-    //base class ka display print hoga
-    base_class_pointer->var_base=34;
-    // base_class_pointer->var_derived=88; //throws an error
+    // //base class ka pointer,if it points to derived class
+    // //if u use pointer to print display
+    // //base class ka display print hoga
+    // base_class_pointer->var_base=34;
+    // // base_class_pointer->var_derived=88; //throws an error
 
-    base_class_pointer->display();
+    // base_class_pointer->display();
 
     
     DerivedClass *derived_class_pointer;
