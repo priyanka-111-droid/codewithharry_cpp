@@ -140,3 +140,32 @@ Tut 67:C++ function templates and function templates with parameters
 
 Tut 68:Member function templates and overloading template functions.
 
+Tut 69:C++ STL
+
+Tut 70:C++ STL:containers
+
+Tut 71:STL vectors
+
+Tut 71b:vectors(part2)
+
+Tut 71c: pairs
+
+Tut 71d:Nesting in vectors
+
+Tut 71e:iterators
+
+Tut 71f:iterators in short(auto and range based loop)
+
+Tut 72:STL lists
+
+Tut 73:STL maps part 1(maps)
+
+Tut 73b:STL Maps question
+
+Tut 73c:STL maps part 2(unordered maps,multimaps)
+
+Tut 73d:STL maps question
+
+Tut temp:Functors(function objects)
+
+
