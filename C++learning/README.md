@@ -166,6 +166,12 @@ Tut 73c:STL maps part 2(unordered maps,multimaps)
 
 Tut 73d:STL maps question
 
+Tut 74:STL sets
+
+Tut 74b:STL sets question
+
+Tut 74c:STL unordered sets
+
 Tut temp:Functors(function objects)
 
 
