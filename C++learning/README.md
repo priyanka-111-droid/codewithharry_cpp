@@ -172,6 +172,12 @@ Tut 74b:STL sets question
 
 Tut 74c:STL unordered sets
 
+Tut 74d:STL multisets
+
+Tut 74e:multiset problem ,hackearth
+
+Tut 75:nesting in maps and sets+ eg questions
+
 Tut temp:Functors(function objects)
 
 
