@@ -24,7 +24,7 @@ int main()
     vector<char> vec2(4);//4 element charactor vector,not initialized
     // vec2.push_back('8');
     // vector<char> vec3(vec2); //4 element char vector from vec2
-    vector<int>vec4(4,1);//4 element vector of 3s
+    vector<int>vec4(4,1);//4 element vector of 1s
     display(vec4);
 
 
