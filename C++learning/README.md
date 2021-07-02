@@ -178,6 +178,10 @@ Tut 74e:multiset problem ,hackearth
 
 Tut 75:nesting in maps and sets+ eg questions
 
+Tut 76:stacks and queues
+
+Tut 77:balanced bracket balancing with stack
+
 Tut temp:Functors(function objects)
 
 
