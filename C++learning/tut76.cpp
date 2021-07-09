@@ -1,4 +1,4 @@
-/*tacks and queues
+/*stacks and queues
 stack:
 ->used in balanced parenthesis,next greater element
 ->LIFO
