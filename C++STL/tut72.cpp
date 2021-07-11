@@ -13,7 +13,6 @@ void display(list <int> &lst){
 
 int main()
 {
-
     list <int> list1;//list of 0 length
     list1.push_back(5);
     list1.push_back(8);
@@ -61,7 +60,6 @@ int main()
     // REVERSE
     list1.reverse();
     display(list1);
-
 
     return 0;
 }

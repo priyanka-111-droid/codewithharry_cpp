@@ -2,6 +2,7 @@
 /*
 pairs:
 class in c++ stl,stores 2 values.
+stored in utility header
 */
 #include<bits/stdc++.h>
 using namespace std;

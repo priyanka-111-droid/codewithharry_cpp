@@ -3,7 +3,8 @@ C++ STL:containers:
 
 1.Sequence container-->linear fashion-->eg. vector,list,deque
 2.Associative container-->direct access(tree)-->eg.set,multiset,map,multimap
-3.Derived container-->give few good methods,model real world->eg.stack,queue,priority-queue
+3.container adaptor-->give few good methods,model real world->eg.stack,queue,priority-queue
+
 
 When to use what?
 1.Sequence container:
