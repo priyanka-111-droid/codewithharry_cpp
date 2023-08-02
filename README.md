@@ -2,6 +2,6 @@
 
 1.C++ learning
 
-2.Hackerrank-C++,Data structures
+2.Hackerrank-C++
 
 
